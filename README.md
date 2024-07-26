@@ -73,7 +73,15 @@ The primary objective of this project is to leverage Data Squirrel AI to analyze
    - Customer segmentation analysis
    - Product performance analysis
 
+## Requirements
+DATA SQUIRREL.AI
 
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+
+## Contact
+For any questions or feedback, please contact me at [debasishdebasish57@gmail.com].
 
 
 
