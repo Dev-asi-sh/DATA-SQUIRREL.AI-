@@ -4,7 +4,7 @@
 This project leverages Data Squirrel AI to analyze sales data from a big shop, deriving actionable insights and visualizations. The analysis focuses on customer segmentation, sales performance, and regional analysis.
 
 ## Dataset
-### Big Shop Sales Data (`Big_Shop_Sales (2).xlsx`)
+### Big Shop Sales Data  [https://docs.google.com/spreadsheets/d/1qwLDhUC2Rpqh5UgiE_mnAgs9Qhb6dZPj/edit?usp=sharing&ouid=107227623330237447723&rtpof=true&sd=true]
 This dataset contains detailed sales information from various transactions, including:
 - **Transaction ID**: Unique identifier for each transaction.
 - **Product ID**: Identifier for each product sold.
@@ -51,8 +51,7 @@ The primary objective of this project is to leverage Data Squirrel AI to analyze
 
 
 ## Project Structure
-- **data/**: Directory containing the dataset.
-  - `Big_Shop_Sales (2).xlsx`: Main dataset for detailed analysis.
+- **data source/**: https://docs.google.com/spreadsheets/d/1qwLDhUC2Rpqh5UgiE_mnAgs9Qhb6dZPj/edit?usp=sharing&ouid=107227623330237447723&rtpof=true&sd=true
 - **reports/**: Directory containing the final analysis reports and visualizations.
 
 ## Getting Started
