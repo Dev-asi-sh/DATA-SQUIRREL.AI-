@@ -61,44 +61,101 @@ The primary objective of this project is to leverage Data Squirrel AI to analyze
 2. Place the dataset in the `data/` directory.
 3. Load the dataset into Data Squirrel AI.
 
+
+
 ### Data Cleaning and Analysis
+
 1. Use Data Squirrel AI to automatically clean and preprocess the data.
 2. Generate insights and visualizations within Data Squirrel AI.
+
+
 ![11](https://github.com/user-attachments/assets/0b55314b-4659-417d-bfc1-4e54c0e1db90)
+
+
 ![22](https://github.com/user-attachments/assets/0b02cc59-071d-47d6-a2b6-26ef24c8c991)
 
+
 ![44](https://github.com/user-attachments/assets/58c42443-9ba2-4cc4-9192-760e3cdc2e6e)
+
+
 ![55](https://github.com/user-attachments/assets/36fb564a-88dd-407d-a814-ac903292df81)
+
+
 ![66](https://github.com/user-attachments/assets/eb399080-33ca-4dfb-8e6a-0cd44b1b13f0)
+
+
+
+
 ![88](https://github.com/user-attachments/assets/847cecac-7265-4dc3-a901-f2964bd5fe60)
+
+
 ![99](https://github.com/user-attachments/assets/7f240d0b-78da-4f92-af34-750aa31c6855)
+
+
 ![111](https://github.com/user-attachments/assets/62711a62-4fb1-4738-8c0a-12c05d842df7)
-![123](https://github.com/user-attachments/assets/32412033-cb40-4d90-9272-736d59ac906a)
+
+
 ![222](https://github.com/user-attachments/assets/8cd3d0e3-fc7b-439e-b31e-2573cd31125d)
+
+
 ![333](https://github.com/user-attachments/assets/bf870256-abda-405e-9f0e-b7d9e5839fac)
+
+
 ![444](https://github.com/user-attachments/assets/c82e925b-1fb1-4b58-8dc5-e85b632b4de0)
-![555](https://github.com/user-attachments/assets/70f698a1-5f9a-4730-9405-032e9d1d469c)
-![1111](https://github.com/user-attachments/assets/69c46083-6f61-4359-8b76-57abbb041961)
+
+
 ![4567](https://github.com/user-attachments/assets/a1937291-8e4a-4e06-9dcb-4935546b32ec)
-![12345](https://github.com/user-attachments/assets/6e1f390f-c5ac-48a8-81e3-b36da0531385)
-![12345678](https://github.com/user-attachments/assets/c318f464-b050-4bee-877d-19b778f3c4ab)
-![clean](https://github.com/user-attachments/assets/adaa3713-6849-4150-85dc-c1cbcfbf63d2)
-![clean2](https://github.com/user-attachments/assets/f4c48950-e37e-476d-97af-49b705e4e9d7)
-![clen3](https://github.com/user-attachments/assets/7c31fb22-8ba5-4217-8ef7-e570db4cc658)
-![sqerl1](https://github.com/user-attachments/assets/bc95ceb0-4447-4385-8516-aedc3d2ef4d9)
-![sqrel3](https://github.com/user-attachments/assets/6ee8f95b-8898-46ce-9e40-129a8429876e)
-![sqrl 5](https://github.com/user-attachments/assets/4de8389c-d21f-4c52-846e-dfd9634579a0)
-![sqrl2](https://github.com/user-attachments/assets/39438956-677c-416f-8b0c-6ea296a71f15)
-![sqrl4](https://github.com/user-attachments/assets/9545f29f-e68a-40b2-8911-ee02649d2c72)
-![sqrl5](https://github.com/user-attachments/assets/dc4e36dd-7b68-4450-9c81-cf4236c5328b)
+
+
+
 
 ### Visualization
+
 1. Export the cleaned data and insights from Data Squirrel AI.
 2. Create additional visualizations in Power BI or other preferred tools, such as:
    - Sales trends over time
    - Sales by region
    - Customer segmentation analysis
    - Product performance analysis
+
+
+![12345678](https://github.com/user-attachments/assets/c318f464-b050-4bee-877d-19b778f3c4ab)
+
+
+![clean](https://github.com/user-attachments/assets/adaa3713-6849-4150-85dc-c1cbcfbf63d2)
+
+
+![clean2](https://github.com/user-attachments/assets/f4c48950-e37e-476d-97af-49b705e4e9d7)
+
+
+![clen3](https://github.com/user-attachments/assets/7c31fb22-8ba5-4217-8ef7-e570db4cc658)
+
+
+![sqerl1](https://github.com/user-attachments/assets/bc95ceb0-4447-4385-8516-aedc3d2ef4d9)
+
+
+![sqrel3](https://github.com/user-attachments/assets/6ee8f95b-8898-46ce-9e40-129a8429876e)
+
+
+![sqrl 5](https://github.com/user-attachments/assets/4de8389c-d21f-4c52-846e-dfd9634579a0)
+
+
+![sqrl2](https://github.com/user-attachments/assets/39438956-677c-416f-8b0c-6ea296a71f15)
+
+
+![sqrl4](https://github.com/user-attachments/assets/9545f29f-e68a-40b2-8911-ee02649d2c72)
+
+
+![sqrl5](https://github.com/user-attachments/assets/dc4e36dd-7b68-4450-9c81-cf4236c5328b)
+
+
+![555](https://github.com/user-attachments/assets/70f698a1-5f9a-4730-9405-032e9d1d469c)
+
+
+![1111](https://github.com/user-attachments/assets/69c46083-6f61-4359-8b76-57abbb041961)
+
+![12345](https://github.com/user-attachments/assets/6e1f390f-c5ac-48a8-81e3-b36da0531385)
+
 
 ## Requirements
 DATA SQUIRREL.AI
